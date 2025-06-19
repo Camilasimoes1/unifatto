@@ -1,0 +1,873 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson Text:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dhyana:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Candal:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gothic A1:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Droid Sans:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abhaya Libre ExtraBold:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Carme:wght@400&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="wireframe-3">
+    		<img class="n-1-icon" alt="" src="457222311_960076852800304_8681091484348805741_n 1.png">
+    		
+    		<div class="wireframe-3-child">
+    		</div>
+    		<div class="wireframe-3-item">
+    		</div>
+    		<div class="wireframe-3-inner">
+    		</div>
+    		<div class="rectangle-div">
+    		</div>
+    		<img class="n-icon" alt="" src="456743104_960077102800279_8973089404134611778_n.png">
+    		
+    		<img class="n-icon1" alt="" src="299387529_452192866922041_2976563245363345765_n.png">
+    		
+    		<img class="n-icon2" alt="" src="289663695_2197507243759423_5777615217212050990_n.png">
+    		
+    		<div class="line-div">
+    		</div>
+    		<div class="wireframe-3-child1">
+    		</div>
+    		<div class="fale-conosco">Fale Conosco</div>
+    		<div class="wireframe-3-child2">
+    		</div>
+    		<div class="wireframe-3-child3">
+    		</div>
+    		<div class="wireframe-3-child4">
+    		</div>
+    		<div class="wireframe-3-child5">
+    		</div>
+    		<div class="wireframe-3-child6">
+    		</div>
+    		<div class="wireframe-3-child7">
+    		</div>
+    		<div class="wireframe-3-child8">
+    		</div>
+    		<div class="wireframe-3-child9">
+    		</div>
+    		<div class="nome">Nome</div>
+    		<div class="cpf">CPF</div>
+    		<div class="tipo-de-imvel">Tipo de imóvel</div>
+    		<div class="cep">CEP</div>
+    		<div class="estado">Estado</div>
+    		<div class="email">Email</div>
+    		<div class="telefone">Telefone</div>
+    		<div class="enviar">ENVIAR</div>
+    		<div class="wireframe-3-child10">
+    		</div>
+    		<div class="wireframe-3-child11">
+    		</div>
+    		<div class="wireframe-3-child12">
+    		</div>
+    		<div class="wireframe-3-child13">
+    		</div>
+    		<div class="wireframe-3-child14">
+    		</div>
+    		<div class="wireframe-3-child15">
+    		</div>
+    		<div class="wireframe-3-child16">
+    		</div>
+    		<div class="wireframe-3-child17">
+    		</div>
+    		<img class="captura-de-tela-2024-10-15-100-icon" alt="" src="Captura_de_tela_2024-10-15_100148-removebg-preview 1.png">
+    		
+    		<div class="home">HOME</div>
+    		<div class="compra">COMPRA</div>
+    		<div class="lanamentos">LANÇAMENTOS</div>
+    		<div class="blog">BLOG</div>
+    		<div class="contato">CONTATO</div>
+    		<div class="wireframe-3-child18">
+    		</div>
+    		<div class="wireframe-3-child19">
+    		</div>
+    		<div class="login">LOGIN</div>
+    		<div class="cadastrar">CADASTRAR</div>
+    		<div class="o-cuidado-com">O cuidado com cada detalhe, o compromisso com prazos e a credibilidade aferida pelas obras já realizadas</div>
+    		<div class="wireframe-3-child20">
+    		</div>
+    		<div class="wireframe-3-child21">
+    		</div>
+    		<div class="compra1">COMPRA</div>
+    		<div class="tipo-de-imvel1">TIPO DE IMÓVEL</div>
+    		<div class="localizao">LOCALIZAÇÃO</div>
+    		<div class="wireframe-3-child22">
+    		</div>
+    		<div class="wireframe-3-child23">
+    		</div>
+    		<div class="wireframe-3-child24">
+    		</div>
+    		<div class="wireframe-3-child25">
+    		</div>
+    		<div class="ellipse-div">
+    		</div>
+    		<img class="line-icon" alt="" src="Line 4.svg">
+    		
+    		<div class="wireframe-3-child26">
+    		</div>
+    		<div class="wireframe-3-child27">
+    		</div>
+    		<div class="wireframe-3-child28">
+    		</div>
+    		<img class="n-icon3" alt="" src="336516419_167369396159456_5583415438447920132_n.png">
+    		
+    		<img class="n-icon4" alt="" src="332244096_225374289876179_7232165278269235380_n.png">
+    		
+    		<img class="n-icon5" alt="" src="314952960_529536465854347_8998513427473892250_n.png">
+    		
+    		<div class="wireframe-3-child29">
+    		</div>
+    		<div class="wireframe-3-child30">
+    		</div>
+    		<div class="wireframe-3-child31">
+    		</div>
+    		<div class="wireframe-3-child32">
+    		</div>
+    		<div class="wireframe-3-child33">
+    		</div>
+    		<div class="wireframe-3-child34">
+    		</div>
+    		<div class="wireframe-3-child35">
+    		</div>
+    		<div class="as-melhores-construes">As melhores construções</div>
+    		<div class="component-4">
+      			<div class="captura-de-tela-2024-10-15-121-parent">
+        				<img class="captura-de-tela-2024-10-15-121" alt="" src="Captura de tela 2024-10-15 121050.png">
+        				
+        				<img class="captura-de-tela-2024-10-15-1211" alt="" src="Captura de tela 2024-10-15 121105.png">
+        				
+        				<img class="captura-de-tela-2024-10-15-115" alt="" src="Captura de tela 2024-10-15 115751.png">
+        				
+        				<img class="captura-de-tela-2024-10-15-1212" alt="" src="Captura de tela 2024-10-15 121116.png">
+        				
+      			</div>
+    		</div>
+    		<img class="captura-de-tela-2024-10-15-120" alt="" src="Captura de tela 2024-10-15 120822 1.png">
+    		
+    		<div class="wireframe-3-child36">
+    		</div>
+    		<img class="ccd533d726e6fe21f6a5aff0667d38-icon" alt="" src="51ccd533d726e6fe21f6a5aff0667d38 1.png">
+    		
+    		<img class="b84e7c4575be37c1bab26cff6d1-1-icon" alt="" src="94148b84e7c4575be37c1bab26cff6d1 1.png">
+    		
+  	</div>
+  	
+  	
+  	<style>
+		.n-1-icon {
+  	position: absolute;
+  	top: 3px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 746px;
+  	object-fit: cover;
+}
+.wireframe-3-child {
+  	position: absolute;
+  	top: 1124px;
+  	left: 0px;
+  	background-color: #000;
+  	width: 1440px;
+  	height: 1154px;
+}
+.wireframe-3-item {
+  	position: absolute;
+  	top: 1020px;
+  	left: 516px;
+  	background-color: #fff;
+  	width: 406px;
+  	height: 471px;
+}
+.wireframe-3-inner {
+  	position: absolute;
+  	top: 1020px;
+  	left: 69px;
+  	background-color: #fff;
+  	width: 406px;
+  	height: 471px;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 1020px;
+  	left: 963px;
+  	background-color: #fff;
+  	width: 406px;
+  	height: 471px;
+}
+.n-icon {
+  	position: absolute;
+  	top: 1020px;
+  	left: 69px;
+  	width: 406px;
+  	height: 241px;
+  	object-fit: cover;
+}
+.n-icon1 {
+  	position: absolute;
+  	top: 1020px;
+  	left: 516px;
+  	width: 406px;
+  	height: 241px;
+  	object-fit: cover;
+}
+.n-icon2 {
+  	position: absolute;
+  	top: 1020px;
+  	left: 963px;
+  	width: 406px;
+  	height: 241px;
+  	object-fit: cover;
+}
+.line-div {
+  	position: absolute;
+  	top: 2148.5px;
+  	left: 151.5px;
+  	border-top: 1px solid #fff;
+  	box-sizing: border-box;
+  	width: 1147px;
+  	height: 1px;
+}
+.wireframe-3-child1 {
+  	position: absolute;
+  	top: 3807px;
+  	left: 255px;
+  	box-shadow: 0px 4px 12.3px rgba(0, 0, 0, 0.25);
+  	border-radius: 9px;
+  	background-color: #fff;
+  	width: 874px;
+  	height: 1007px;
+}
+.fale-conosco {
+  	position: absolute;
+  	top: 3716px;
+  	left: 566px;
+  	font-size: 48px;
+  	font-family: 'Crimson Text';
+}
+.wireframe-3-child2 {
+  	position: absolute;
+  	top: 3874px;
+  	left: 377px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-3-child3 {
+  	position: absolute;
+  	top: 3992px;
+  	left: 377px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-3-child4 {
+  	position: absolute;
+  	top: 4110px;
+  	left: 377px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-3-child5 {
+  	position: absolute;
+  	top: 4228px;
+  	left: 377px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-3-child6 {
+  	position: absolute;
+  	top: 4336px;
+  	left: 377px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-3-child7 {
+  	position: absolute;
+  	top: 4444px;
+  	left: 377px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-3-child8 {
+  	position: absolute;
+  	top: 4552px;
+  	left: 377px;
+  	border-radius: 26px;
+  	background-color: #e7e2e2;
+  	border: 1px solid #bfb8b8;
+  	box-sizing: border-box;
+  	width: 630px;
+  	height: 86px;
+}
+.wireframe-3-child9 {
+  	position: absolute;
+  	top: 4680px;
+  	left: 563px;
+  	border-radius: 26px;
+  	background-color: #001855;
+  	width: 259px;
+  	height: 86px;
+}
+.nome {
+  	position: absolute;
+  	top: 3897px;
+  	left: 403px;
+}
+.cpf {
+  	position: absolute;
+  	top: 4015px;
+  	left: 403px;
+}
+.tipo-de-imvel {
+  	position: absolute;
+  	top: 4134px;
+  	left: 403px;
+  	display: inline-block;
+  	width: 176px;
+  	height: 28px;
+}
+.cep {
+  	position: absolute;
+  	top: 4251px;
+  	left: 403px;
+}
+.estado {
+  	position: absolute;
+  	top: 4359px;
+  	left: 403px;
+}
+.email {
+  	position: absolute;
+  	top: 4467px;
+  	left: 403px;
+}
+.telefone {
+  	position: absolute;
+  	top: 4575px;
+  	left: 403px;
+}
+.enviar {
+  	position: absolute;
+  	top: 4699px;
+  	left: 622px;
+  	font-size: 36px;
+  	font-family: Candal;
+  	color: #fff;
+}
+.wireframe-3-child10 {
+  	position: absolute;
+  	top: 1329px;
+  	left: 95px;
+  	background-color: #d9d9d9;
+  	width: 188px;
+  	height: 25px;
+}
+.wireframe-3-child11 {
+  	position: absolute;
+  	top: 1293px;
+  	left: 95px;
+  	background-color: #d9d9d9;
+  	width: 237px;
+  	height: 25px;
+}
+.wireframe-3-child12 {
+  	position: absolute;
+  	top: 1329px;
+  	left: 546px;
+  	background-color: #d9d9d9;
+  	width: 188px;
+  	height: 25px;
+}
+.wireframe-3-child13 {
+  	position: absolute;
+  	top: 1292px;
+  	left: 546px;
+  	background-color: #d9d9d9;
+  	width: 237px;
+  	height: 25px;
+}
+.wireframe-3-child14 {
+  	position: absolute;
+  	top: 1329px;
+  	left: 995px;
+  	background-color: #d9d9d9;
+  	width: 188px;
+  	height: 25px;
+}
+.wireframe-3-child15 {
+  	position: absolute;
+  	top: 1292px;
+  	left: 995px;
+  	background-color: #d9d9d9;
+  	width: 237px;
+  	height: 25px;
+}
+.wireframe-3-child16 {
+  	position: absolute;
+  	top: 5551px;
+  	left: -5px;
+  	background-color: #004566;
+  	width: 1445px;
+  	height: 165px;
+}
+.wireframe-3-child17 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: rgba(0, 0, 0, 0.65);
+  	width: 1440px;
+  	height: 104px;
+}
+.captura-de-tela-2024-10-15-100-icon {
+  	position: absolute;
+  	top: 8px;
+  	left: 23px;
+  	width: 157px;
+  	height: 88px;
+  	object-fit: cover;
+}
+.home {
+  	position: absolute;
+  	top: 43px;
+  	left: 460px;
+  	font-size: 20px;
+  	font-family: 'Gothic A1';
+  	color: #fff;
+  	display: inline-block;
+  	width: 70px;
+  	height: 18px;
+}
+.compra {
+  	position: absolute;
+  	top: 43px;
+  	left: 539px;
+  	font-size: 20px;
+  	font-family: 'Gothic A1';
+  	color: #fff;
+  	display: inline-block;
+  	width: 100px;
+  	height: 18px;
+}
+.lanamentos {
+  	position: absolute;
+  	top: 43px;
+  	left: 639px;
+  	font-size: 20px;
+  	font-family: 'Gothic A1';
+  	color: #fff;
+  	display: inline-block;
+  	width: 173px;
+  	height: 18px;
+}
+.blog {
+  	position: absolute;
+  	top: 43px;
+  	left: 802px;
+  	font-size: 20px;
+  	font-family: 'Gothic A1';
+  	color: #fff;
+  	display: inline-block;
+  	width: 62px;
+  	height: 18px;
+}
+.contato {
+  	position: absolute;
+  	top: 43px;
+  	left: 875px;
+  	font-size: 20px;
+  	font-family: 'Gothic A1';
+  	color: #fff;
+  	display: inline-block;
+  	width: 106px;
+  	height: 18px;
+}
+.wireframe-3-child18 {
+  	position: absolute;
+  	top: 32px;
+  	left: 1249px;
+  	border-radius: 9px;
+  	background-color: #004566;
+  	width: 132px;
+  	height: 41px;
+}
+.wireframe-3-child19 {
+  	position: absolute;
+  	top: 32px;
+  	left: 1110px;
+  	border-radius: 9px;
+  	background-color: #fff;
+  	border: 3px solid #004566;
+  	box-sizing: border-box;
+  	width: 132px;
+  	height: 41px;
+}
+.login {
+  	position: absolute;
+  	top: 43px;
+  	left: 1289px;
+  	font-size: 16px;
+  	font-family: 'Droid Sans';
+  	color: #fff;
+  	display: inline-block;
+  	width: 53px;
+  	height: 19px;
+}
+.cadastrar {
+  	position: absolute;
+  	top: 43px;
+  	left: 1128px;
+  	font-size: 16px;
+  	font-family: 'Droid Sans';
+  	display: inline-block;
+  	width: 96px;
+  	height: 16px;
+}
+.o-cuidado-com {
+  	position: absolute;
+  	top: 221px;
+  	left: 69px;
+  	font-size: 48px;
+  	font-family: 'Abhaya Libre ExtraBold';
+  	color: #fff;
+  	display: inline-block;
+  	width: 696px;
+  	height: 212px;
+}
+.wireframe-3-child20 {
+  	position: absolute;
+  	top: 463px;
+  	left: 71px;
+  	box-shadow: 0px 4px 7.7px rgba(0, 0, 0, 0.25);
+  	background-color: #eeeded;
+  	width: 586px;
+  	height: 236px;
+}
+.wireframe-3-child21 {
+  	position: absolute;
+  	top: 463px;
+  	left: 69px;
+  	background-color: #004566;
+  	width: 191px;
+  	height: 76px;
+}
+.compra1 {
+  	position: absolute;
+  	top: 491px;
+  	left: 130px;
+  	font-size: 16px;
+  	font-family: Carme;
+}
+.tipo-de-imvel1 {
+  	position: absolute;
+  	top: 491px;
+  	left: 316px;
+  	font-size: 16px;
+  	font-family: Carme;
+}
+.localizao {
+  	position: absolute;
+  	top: 490px;
+  	left: 505px;
+  	font-size: 16px;
+  	font-family: Carme;
+}
+.wireframe-3-child22 {
+  	position: absolute;
+  	top: 538px;
+  	left: 71px;
+  	background-color: #fff;
+  	width: 586px;
+  	height: 161px;
+}
+.wireframe-3-child23 {
+  	position: absolute;
+  	top: 570px;
+  	left: 108px;
+  	background-color: #eeeded;
+  	width: 513px;
+  	height: 67px;
+}
+.wireframe-3-child24 {
+  	position: absolute;
+  	top: 570px;
+  	left: 522px;
+  	background-color: #004566;
+  	width: 99px;
+  	height: 67px;
+}
+.wireframe-3-child25 {
+  	position: absolute;
+  	top: 577.5px;
+  	left: 320.5px;
+  	border-right: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 1px;
+  	height: 52.7px;
+}
+.ellipse-div {
+  	position: absolute;
+  	top: 588px;
+  	left: 549px;
+  	border-radius: 50%;
+  	background-color: #004566;
+  	border: 1px solid #000;
+  	box-sizing: border-box;
+  	width: 24px;
+  	height: 23px;
+}
+.line-icon {
+  	position: absolute;
+  	top: 608px;
+  	left: 569px;
+  	width: 12px;
+  	height: 7px;
+  	object-fit: contain;
+}
+.wireframe-3-child26 {
+  	position: absolute;
+  	top: 1584px;
+  	left: 522px;
+  	background-color: #fff;
+  	width: 406px;
+  	height: 471px;
+}
+.wireframe-3-child27 {
+  	position: absolute;
+  	top: 1584px;
+  	left: 75px;
+  	background-color: #fff;
+  	width: 406px;
+  	height: 471px;
+}
+.wireframe-3-child28 {
+  	position: absolute;
+  	top: 1584px;
+  	left: 969px;
+  	background-color: #fff;
+  	width: 406px;
+  	height: 471px;
+}
+.n-icon3 {
+  	position: absolute;
+  	top: 1584px;
+  	left: 75px;
+  	width: 406px;
+  	height: 241px;
+  	object-fit: cover;
+}
+.n-icon4 {
+  	position: absolute;
+  	top: 1584px;
+  	left: 522px;
+  	width: 406px;
+  	height: 241px;
+  	object-fit: cover;
+}
+.n-icon5 {
+  	position: absolute;
+  	top: 1584px;
+  	left: 969px;
+  	width: 406px;
+  	height: 241px;
+  	object-fit: cover;
+}
+.wireframe-3-child29 {
+  	position: absolute;
+  	top: 1893px;
+  	left: 101px;
+  	background-color: #d9d9d9;
+  	width: 188px;
+  	height: 25px;
+}
+.wireframe-3-child30 {
+  	position: absolute;
+  	top: 1857px;
+  	left: 101px;
+  	background-color: #d9d9d9;
+  	width: 237px;
+  	height: 25px;
+}
+.wireframe-3-child31 {
+  	position: absolute;
+  	top: 1893px;
+  	left: 552px;
+  	background-color: #d9d9d9;
+  	width: 188px;
+  	height: 25px;
+}
+.wireframe-3-child32 {
+  	position: absolute;
+  	top: 1856px;
+  	left: 552px;
+  	background-color: #d9d9d9;
+  	width: 237px;
+  	height: 25px;
+}
+.wireframe-3-child33 {
+  	position: absolute;
+  	top: 1893px;
+  	left: 1001px;
+  	background-color: #d9d9d9;
+  	width: 188px;
+  	height: 25px;
+}
+.wireframe-3-child34 {
+  	position: absolute;
+  	top: 1856px;
+  	left: 1001px;
+  	background-color: #d9d9d9;
+  	width: 237px;
+  	height: 25px;
+}
+.wireframe-3-child35 {
+  	position: absolute;
+  	top: 826px;
+  	left: -167px;
+  	border-radius: 32px;
+  	background-color: #001855;
+  	width: 824px;
+  	height: 152px;
+}
+.as-melhores-construes {
+  	position: absolute;
+  	top: 875px;
+  	left: 45px;
+  	font-size: 40px;
+  	font-family: Candal;
+  	color: #fff;
+}
+.captura-de-tela-2024-10-15-121 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1156px;
+  	height: 554px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-15-1211 {
+  	position: absolute;
+  	top: 0px;
+  	left: 1256px;
+  	width: 1156px;
+  	height: 554px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-15-115 {
+  	position: absolute;
+  	top: 0px;
+  	left: 2512px;
+  	width: 1156px;
+  	height: 554px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-15-1212 {
+  	position: absolute;
+  	top: 0px;
+  	left: 3768px;
+  	width: 1156px;
+  	height: 554px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-15-121-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 4924px;
+  	height: 554px;
+}
+.component-4 {
+  	position: absolute;
+  	top: 2384px;
+  	left: 139px;
+  	background-color: #fff;
+  	width: 1156px;
+  	height: 554px;
+  	overflow: hidden;
+}
+.captura-de-tela-2024-10-15-120 {
+  	position: absolute;
+  	top: 5012px;
+  	left: 228px;
+  	width: 928px;
+  	height: 409px;
+  	object-fit: cover;
+}
+.wireframe-3-child36 {
+  	position: absolute;
+  	top: 3021px;
+  	left: 0px;
+  	background-color: #101113;
+  	width: 1440px;
+  	height: 605px;
+}
+.ccd533d726e6fe21f6a5aff0667d38-icon {
+  	position: absolute;
+  	top: 3157px;
+  	left: 789px;
+  	width: 604px;
+  	height: 324px;
+  	object-fit: cover;
+}
+.b84e7c4575be37c1bab26cff6d1-1-icon {
+  	position: absolute;
+  	top: 3140px;
+  	left: 101px;
+  	width: 591px;
+  	height: 357px;
+  	object-fit: cover;
+}
+.wireframe-3 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #fafafa;
+  	height: 5716px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 24px;
+  	color: #000;
+  	font-family: Dhyana;
+}
+
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+	</style>
+  	
+</body>
+</html>
